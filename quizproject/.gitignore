@@ -11,7 +11,7 @@ media
 # other team members will have to run pipenv install to create their
 # own local file.
 Pipfile.lock
-
+quizenv/
 # General MacOS files to ignore
 .DS_Store
 .DocumentRevisions-V100
